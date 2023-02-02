@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 
-public class TrocoCliente {
+public class FormatandoSaida {
 	
     public static void main(String[] args) {
-    	// CALCULAR O TROCO DO CLIENTE
+    	// TROCO DO CLIENTE
     	
     	
         Scanner sc = new Scanner(System.in);

@@ -4,7 +4,7 @@ public class NotaProva {
 	
 	static final int NOTA_MINIMA = 7;
 	public static void main(String[] args) {
-		// CALCULAR A  NOTA FINAL E SABER SE ELE PASSOU DE ANO
+		// OPERADORES LÓLICOS (BOOLEAN)
 		
 		Scanner sc = new Scanner(System.in);
 		
